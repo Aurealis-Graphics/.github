@@ -1,6 +1,6 @@
 # Aurealis Graphics
-
-<p style="margin:40px" align="center">
+</br>
+<p align="center">
   <img height=80 src="https://i.imgur.com/GHq3TnY.png" />
 </p>
 
