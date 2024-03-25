@@ -1,7 +1,7 @@
 # Aurealis Graphics
 </br>
 <p align="center">
-  <img height=80 src="https://i.imgur.com/GHq3TnY.png" />
+  <img  src="https://i.imgur.com/Ji0uoEK.jpeg" />
 </p>
 
 ## 🚀 About Us
