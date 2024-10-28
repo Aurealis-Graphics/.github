@@ -1,7 +1,7 @@
 # Aurealis Graphics
 ## 🚀 About Us
 
-Aurealis Graphics is a  Germany-based software company dedicated to revolutionizing the industry through innovation and creativity founded by [@TechDevOnGithub](https://github.com/TechDevOnGithub).
+Aurealis Graphics is a  Germany-based software company founded by [@TechDevOnGithub](https://github.com/TechDevOnGithub), dedicated to revolutionizing the industry through innovation and creativity.
 
 </br>
 <p align="center">
